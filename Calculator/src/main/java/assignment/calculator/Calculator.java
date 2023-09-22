@@ -27,7 +27,7 @@ public class Calculator extends Application {
 
         // Setting Icon and Title
         stage.setTitle("Calculator");
-        Image icon= new Image("C:\\Users\\AFRA\\Pictures\\calculator.jpg");
+        Image icon= new Image(Objects.requireNonNull(getClass().getResourceAsStream("Image/calculator.jpg")));
         stage.getIcons().add(icon);
 
         stage.setResizable(false);
