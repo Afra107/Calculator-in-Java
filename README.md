@@ -12,5 +12,4 @@ This project is a simple implementation of a basic calculator in Java. It allows
 
 ## Screenshots
 
-<img src="https://github.com/Afra107/Basic-Calculator/assets/113014706/e996eb20-5263-4bec-903e-b243d20e89bf" width=60% align="center" />
-
+<img src="https://github.com/Afra107/Basic-Calculator/assets/113014706/5b0c9a27-9a99-4e96-be15-d5d846f29eab" width=60% align="center" />
