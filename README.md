@@ -1,6 +1,6 @@
-# Basic Calculator Project
+# Calculator
 
-This project is a simple implementation of a basic calculator in Java. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division and percentage.
+This project is a simple implementation of calculator in Java. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division and percentage.
 
 ## Features
 
